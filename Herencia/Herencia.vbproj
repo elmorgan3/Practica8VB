@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8006E922-2558-4F52-A879-156FC5E17E9E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Herencia.My.MyApplication</StartupObject>
+    <RootNamespace>Herencia</RootNamespace>
+    <AssemblyName>Herencia</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Herencia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Herencia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBase.Designer.vb">
+      <DependentUpon>FormBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseArea.Designer.vb">
+      <DependentUpon>FormBaseArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAreaCirculo.Designer.vb">
+      <DependentUpon>FormBaseAreaCirculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAreaCirculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAreaCircunferencia.Designer.vb">
+      <DependentUpon>FormBaseAreaCircunferencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAreaCircunferencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAreaRectangulo.Designer.vb">
+      <DependentUpon>FormBaseAreaRectangulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAreaRectangulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAreaTriangulo.Designer.vb">
+      <DependentUpon>FormBaseAreaTriangulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAreaTriangulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAritmetica.Designer.vb">
+      <DependentUpon>FormBaseAritmetica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAritmetica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaDivision.Designer.vb">
+      <DependentUpon>FormBaseAritmeticaDivision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaDivision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaMultiplicacion.Designer.vb">
+      <DependentUpon>FormBaseAritmeticaMultiplicacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaMultiplicacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaResta.Designer.vb">
+      <DependentUpon>FormBaseAritmeticaResta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaResta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaSuma.Designer.vb">
+      <DependentUpon>FormBaseAritmeticaSuma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseAritmeticaSuma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseCadena.Designer.vb">
+      <DependentUpon>FormBaseCadena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseCadena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseCadenaContadorVocales.Designer.vb">
+      <DependentUpon>FormBaseCadenaContadorVocales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseCadenaContadorVocales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseCadenaContarCaracteres.Designer.vb">
+      <DependentUpon>FormBaseCadenaContarCaracteres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseCadenaContarCaracteres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseCadenaInvertir.Designer.vb">
+      <DependentUpon>FormBaseCadenaInvertir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseCadenaInvertir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseOtrosFibonacci.Designer.vb">
+      <DependentUpon>FormBaseOtrosFibonacci.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseOtrosFibonacci.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseOtros.Designer.vb">
+      <DependentUpon>FormBaseOtros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseOtros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseOtrosEscribirNumero.Designer.vb">
+      <DependentUpon>FormBaseOtrosEscribirNumero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseOtrosEscribirNumero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseOtrosTablaMulti.Designer.vb">
+      <DependentUpon>FormBaseOtrosTablaMulti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseOtrosTablaMulti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBase.resx">
+      <DependentUpon>FormBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseArea.resx">
+      <DependentUpon>FormBaseArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAreaCirculo.resx">
+      <DependentUpon>FormBaseAreaCirculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAreaCircunferencia.resx">
+      <DependentUpon>FormBaseAreaCircunferencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAreaRectangulo.resx">
+      <DependentUpon>FormBaseAreaRectangulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAreaTriangulo.resx">
+      <DependentUpon>FormBaseAreaTriangulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAritmetica.resx">
+      <DependentUpon>FormBaseAritmetica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAritmeticaDivision.resx">
+      <DependentUpon>FormBaseAritmeticaDivision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAritmeticaMultiplicacion.resx">
+      <DependentUpon>FormBaseAritmeticaMultiplicacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAritmeticaResta.resx">
+      <DependentUpon>FormBaseAritmeticaResta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseAritmeticaSuma.resx">
+      <DependentUpon>FormBaseAritmeticaSuma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseCadena.resx">
+      <DependentUpon>FormBaseCadena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseCadenaContadorVocales.resx">
+      <DependentUpon>FormBaseCadenaContadorVocales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseCadenaContarCaracteres.resx">
+      <DependentUpon>FormBaseCadenaContarCaracteres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseCadenaInvertir.resx">
+      <DependentUpon>FormBaseCadenaInvertir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseOtrosFibonacci.resx">
+      <DependentUpon>FormBaseOtrosFibonacci.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseOtros.resx">
+      <DependentUpon>FormBaseOtros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseOtrosEscribirNumero.resx">
+      <DependentUpon>FormBaseOtrosEscribirNumero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseOtrosTablaMulti.resx">
+      <DependentUpon>FormBaseOtrosTablaMulti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,129 @@
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.Form1Base.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\bin\Debug\Herencia.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\bin\Debug\Herencia.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1Base.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbprojResolveAssemblyReference.cache
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBase.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseArea.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaTriangulo.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCirculo.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCircunferencia.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaRectangulo.resources
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmetica.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBase.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseArea.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCirculo.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCircunferencia.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaRectangulo.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaTriangulo.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmetica.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaSuma.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaResta.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaDivision.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaMultiplicacion.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadena.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaInvertir.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContadorVocales.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContarCaracteres.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbprojResolveAssemblyReference.cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtros.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.xml
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBase.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseArea.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCirculo.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCircunferencia.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaRectangulo.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaTriangulo.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmetica.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaDivision.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaMultiplicacion.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaResta.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaSuma.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadena.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContadorVocales.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContarCaracteres.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaInvertir.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtros.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosEscribirNumero.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosFibonacci.resources
+C:\Users\cfgs2inf02\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosTablaMulti.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\bin\Debug\Herencia.xml
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbprojResolveAssemblyReference.cache
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBase.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseArea.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCirculo.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaCircunferencia.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaRectangulo.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAreaTriangulo.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmetica.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaDivision.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaMultiplicacion.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaResta.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseAritmeticaSuma.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadena.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContadorVocales.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaContarCaracteres.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseCadenaInvertir.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosFibonacci.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtros.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosEscribirNumero.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosTablaMulti.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Users\Morgan\Desktop\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.Cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosFibonacci.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosEscribirNumero.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 8 - Herencia\Herencia\obj\Debug\Herencia.FormBaseOtrosTablaMulti.resources
